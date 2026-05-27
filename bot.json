@@ -1,0 +1,147 @@
+{
+    "bots": [
+        {
+            "bot_id": 1,
+            "auth_bot_login": {
+                "access_token": "4368393397:BEBC7614C5BBFEC8028831D446FD902F4F2910DF5EFD776EDE43A05DFD96E490"
+            },
+            "access_bot": [
+                {
+                    "uid": 7307659481,
+                    "expire": "2028-11-06 19:22:11"
+                },
+                {
+                    "uid": 117500644,
+                    "expire": "2026-03-09 20:39:09"
+                }
+            ],
+            "active-clan": true,
+            "botid": 14249464302,
+            "nickname": "#đức✓thanh"
+        },
+        {
+            "bot_id": 2,
+            "auth_bot_login": {
+                "access_token": "4357649878:21145AE32E59B88F27CF97AE6E0F0D3200AA49214D621A41472C8B9103E827C9"
+            },
+            "access_bot": [
+                {
+                    "uid": 156256275,
+                    "expire": "2028-11-07 15:50:10"
+                },
+                {
+                    "uid": 7307659481,
+                    "expire": "2028-11-08 20:34:49"
+                },
+                {
+                    "uid": 6578718889,
+                    "expire": "2026-02-15 08:28:49"
+                },
+                {
+                    "uid": 2950610332,
+                    "expire": "2026-02-15 10:25:57"
+                },
+                {
+                    "uid": 117500644,
+                    "expire": "2026-03-08 11:33:21"
+                },
+                {
+                    "uid": 12750023554,
+                    "expire": "2026-02-15 14:49:26"
+                },
+                {
+                    "uid": 14449430558,
+                    "expire": "2026-02-15 19:16:53"
+                }
+            ],
+            "active-clan": true,
+            "botid": 14195456200,
+            "nickname": "Pbatlv1"
+        },
+        {
+            "bot_id": 3,
+            "auth_bot_login": {
+                "access_token": "4507225172:quanghau123_QHAU_NO_DEV_2026"
+            },
+            "access_bot": [
+                {
+                    "uid": 156256275,
+                    "expire": "2028-11-07 15:59:12"
+                }
+            ],
+            "active-clan": true,
+            "botid": 14712447266,
+            "nickname": "quangha¹⁶⁹⁷⁴"
+        },
+        {
+            "bot_id": 4,
+            "auth_bot_login": {
+                "access_token": "4507226584:quanghau123_QHAU_NO_DEV_2026"
+            },
+            "access_bot": [
+                {
+                    "uid": 156256275,
+                    "expire": "2028-11-07 15:59:09"
+                }
+            ],
+            "active-clan": true,
+            "botid": 14712451966,
+            "nickname": "quangha³⁶⁰⁶¹"
+        },
+        {
+            "bot_id": 5,
+            "auth_bot_login": {
+                "access_token": "4507228834:quanghau123_QHAU_NO_DEV_2026"
+            },
+            "access_bot": [
+                {
+                    "uid": 156256275,
+                    "expire": "2028-11-07 15:59:02"
+                }
+            ],
+            "active-clan": true,
+            "botid": 14712459027,
+            "nickname": "quangha¹⁰²⁴⁵"
+        },
+        {
+            "bot_id": 6,
+            "auth_bot_login": {
+                "access_token": "4511810449:pass123_QHAU_NO_DEV_2026"
+            },
+            "access_bot": [
+                {
+                    "uid": 7307659481,
+                    "expire": "2028-11-08 20:35:01"
+                }
+            ],
+            "active-clan": true,
+            "botid": 14725271989,
+            "nickname": "thanhct⁵⁶¹⁰⁷"
+        },
+        {
+            "bot_id": 7,
+            "auth_bot_login": {
+                "access_token": "4511814097:pass123_QHAU_NO_DEV_2026"
+            },
+            "access_bot": [],
+            "active-clan": true,
+            "botid": 14725282773,
+            "nickname": "thanhct²⁹³⁶⁹"
+        },
+        {
+            "bot_id": 8,
+            "auth_bot_login": {
+                "access_token": "4513806971:pass123_QHAU_NO_DEV_2026"
+            },
+            "access_bot": [
+                {
+                    "uid": 7307659481,
+                    "expire": "2028-11-09 11:21:05"
+                }
+            ],
+            "active-clan": true,
+            "botid": 14731309157,
+            "nickname": "tholy⁷⁴⁰⁸³"
+        }
+    ]
+}
